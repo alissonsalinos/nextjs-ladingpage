@@ -1,0 +1,14 @@
+## NextJs LandingPage com ThemeUI
+Desenvolvimento de uma Landing page em NextJs utilizando a biblioteca ThemeUI como design system.
+
+## Instalação
+
+Instale as dependências para rodar a aplicacação em um servidor local.
+
+```bash
+npm install
+npm run dev
+# or
+yarn
+yarn dev
+```
